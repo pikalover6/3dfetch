@@ -1,0 +1,34 @@
+{
+  "name": "3dfetch",
+  "version": "1.0.0",
+  "description": "Unified JS library for fetching free-to-download 3D models from a variety of sources",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pikalover6/3dfetch.git"
+  },
+  "keywords": [
+    "3d",
+    "models",
+    "fetch",
+    "sketchfab",
+    "thingiverse",
+    "polyhaven",
+    "3d-printing",
+    "3d-models",
+    "free",
+    "download"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pikalover6/3dfetch/issues"
+  },
+  "homepage": "https://github.com/pikalover6/3dfetch#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
